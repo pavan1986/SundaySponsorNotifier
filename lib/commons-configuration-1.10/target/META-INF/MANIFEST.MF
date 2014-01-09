@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Implementation-Title: Apache Commons Configuration
+Built-By: administrator
+Tool: Bnd-2.1.0.20130426-122213
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Vendor-Id: org.apache
+Specification-Title: Apache Commons Configuration
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-SymbolicName: org.apache.commons.configuration
+X-Compile-Target-JDK: 1.5
+Implementation-Version: 1.10
+Specification-Vendor: The Apache Software Foundation
+Bundle-Name: Apache Commons Configuration
+Created-By: Apache Maven Bundle Plugin
+X-Compile-Source-JDK: 1.5
+Bundle-Vendor: The Apache Software Foundation
+Build-Jdk: 1.6.0_51
+Bundle-Version: 1.10.0
+Bnd-LastModified: 1388596919482
+Bundle-ManifestVersion: 2
+Bundle-Description: Tools to assist in the reading of configuration/pr
+ eferences files in various formats.
+Implementation-Build: UNKNOWN_BRANCH@r??????; 2014-01-01 09:20:26-0800
+Specification-Version: 1.10
+Include-Resource: META-INF/LICENSE.txt=LICENSE.txt,META-INF/NOTICE.txt
+ =NOTICE.txt
+Bundle-DocURL: http://commons.apache.org/configuration/
+Archiver-Version: Plexus Archiver
+
